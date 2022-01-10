@@ -1,4 +1,4 @@
-# Data-Science-Challenge2021_Explainable-Machine-Learning
+# Data Science Challenge 2021: Explainable Machine Learning
 The given notebook has been created by Dr. Michaela Baumann, who won the individual competition of the Data Science Challenge 2021 of the DAV.
 
 The notebook on the main topic of interpretable machine learning is a descriptive and instructive analysis of a car data set from a public source.
